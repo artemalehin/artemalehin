@@ -968,7 +968,10 @@ def MAIN():
 					print("1) СМС спамер.")
 					print("2) Обновить прокси.")
 					print("3) Обновить SPYMER.")
+					
 					print("4) Выход.")
+					print("5) Дать по ебалу Эдику")
+					
 					input1 = input(Fore.BLUE+"Введите номер пункта: "+Style.RESET_ALL)
 					if input1 == "1":
 						clear()
